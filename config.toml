@@ -1,9 +1,10 @@
-baseURL = "rbroc.github.io"
+baseURL = "https://rbroc.github.io"
 languageCode = "en-us"
 title = "Roberta Rocca"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+publishDir = "rbroc.github.io"
 
 [params]
     author = "Roberta Rocca"
@@ -12,7 +13,7 @@ googleAnalytics = ""
     accent = "#A52A2A"
     showBorder = true
     backgroundColor = "white"
-    font = "Roboto Mono" # 
+    font = "Roboto Mono" #
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
