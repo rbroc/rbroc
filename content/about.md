@@ -11,7 +11,7 @@ My PhD project was part of the Marie Skłodowska-Curie Training Network [DCOMM](
 I have had the chance to study and work all around Europe. I started from a BA in Philosophy at the University of Palermo, where I got more and more interested in philosophy of language. 
 Then, I did my MSc in Cognitive Science at the [Mind and Brain Centre (CIMeC), University of Trento](https://www.cimec.unitn.it/), with a focus on computational linguistics.
 
-During my Masters, I worked as a Research Assistant at the Language and Cognition Department at the [Max Planck Institute for Psycholinguistics in Nijmegen](https://www.mpi.nl/), the Netherlands and at the Department of [Experimental Psychology](https://www.ucl.ac.uk/pals/) at University College London. 
+During my Masters, I worked as a Research Assistant at the Language and Cognition Department at the [Max Planck Institute for Psycholinguistics in Nijmegen](https://www.mpi.nl/), the Netherlands and at the [Department of Experimental Psychology](https://www.ucl.ac.uk/pals/) at University College London. 
 
 I spend a great deal of my free time between literature, music, and politics.
 I occasionally write [fiction](https://medium.com/@robertarocca) and do some freelance culture journalism (I have written for [Doppiozero](https://www.doppiozero.com/materiali/ricerca-democrazia-e-ue), [Indiscreto](https://www.indiscreto.org/tag/roberta-rocca/), [Il lavoro culturale](https://www.lavoroculturale.org/hieronymus-bosch/)).
