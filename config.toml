@@ -29,7 +29,7 @@ publishDir = "rbroc.github.io"
     weight = 2
 
 [[menu.main]]
-    url = "/cv.pdf"
+    url = "/cv/cv.pdf"
     name = "CV"
     weight = 3
 
