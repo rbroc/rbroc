@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/rbroc/rbroc.github.io.git
 	branch = master
+[submodule "rbroc.github.io"]
+	path = rbroc.github.io
+	url = http://www.github.com/rbroc/rbroc.github.io
