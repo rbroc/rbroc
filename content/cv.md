@@ -1,35 +1,19 @@
-Roberta Rocca, PhD, MSc
+# Roberta Rocca, PhD, MSc
 
-| **Postdoctoral researcher** _Psychoinformatics Lab_Department of PsychologyUniversity of Texas at Austin | **Date of birth** : 17/11/1992 **Mobile** : +1 (512) 647 - 8764 ![](RackMultipart20200426-4-1gw9rj_html_dde13a20b44adb52.gif)roberta.rocca@austin.utexas.edu ![](RackMultipart20200426-4-1gw9rj_html_c0551b18f944b0e2.gif)@[RockBerta](https://twitter.com/RockBerta) |
-| --- | --- |
+**Postdoctoral researcher** _Psychoinformatics Lab_Department of PsychologyUniversity of Texas at Austin
+**Date of birth** : 17/11/1992 
+**Mobile** : +1 (512) 647 - 8764
+**Email** : rbrrcc@gmail.com
 
-**Research interests**
-
+### **Research interests**
 fMRI, Language, Social Cognition, Semantics, Spatial Cognition
 
-**Education and employment**
-
-**12/2019 – ongoing** _Postdoctoral researcher_
-
-**Psychoinformatics Lab,** Dept. of Psychology, **University of Texas at Austin**
-
-**09/2019 – 10/2019** _Research Assistant_
-
-**Interacting Minds Centre, Aarhus University** , Denmark
-
-**09/2018 – 02/2019** _Visiting Ph.D. Student_
-
-**Dept.** of **Applied Mathematics and Computer Science** , Section for Cognitive Systems,
-
-**Technical University of Denmark (DTU)**
-
-**09/2016 – 08/2019** _Early-Stage Researcher_
-
-**DCOMM** ([www.dcomm.eu](http://www.dcomm.eu/)): Marie Skłodowska-Curie ITN – EU H2020 Actions
-
-**09/2016 – 08/2019** _Ph.D. Student_
-
-**Dept.** of **Linguistics, Cognitive Science and Semiotics** , **Aarhus University** , Denmark
+### **Education and employment**
+**12/2019 – ongoing**: _Postdoctoral researcher_, **Psychoinformatics Lab,** Dept. of Psychology, **University of Texas at Austin**
+**09/2019 – 10/2019**: _Research Assistant_, **Interacting Minds Centre, Aarhus University** , Denmark
+**09/2018 – 02/2019**: _Visiting Ph.D. Student_, **Dept.** of **Applied Mathematics and Computer Science** , Section for Cognitive Systems, **Technical University of Denmark (DTU)**
+**09/2016 – 08/2019**: _Early-Stage Researcher_ @ **DCOMM** ([www.dcomm.eu](http://www.dcomm.eu/)): Marie Skłodowska-Curie ITN – EU H2020 Actions
+**09/2016 – 08/2019**: _Ph.D. Student_, **Dept.** of **Linguistics, Cognitive Science and Semiotics** , **Aarhus University**, Denmark
 
 _Thesis title_: The neural correlates of spatial demonstratives (main supervisor: Dr. Mikkel Wallentin)
 
