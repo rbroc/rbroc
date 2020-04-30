@@ -8,7 +8,7 @@ publishDir = "rbroc.github.io"
 
 [params]
     author = "Roberta Rocca"
-    description = "Postdoctoral researcher, Psychoinformatics Lab, UT Austin"
+    description = "Postdoctoral researcher @ Psychoinformatics Lab, UT Austin"
     githubUsername = "rbroc"
     accent = "#A52A2A"
     showBorder = true
@@ -29,19 +29,10 @@ publishDir = "rbroc.github.io"
     weight = 2
 
 [[menu.main]]
-    url = "cv/cv.pdf" #fix this so it's not relative
+    url = "/cv/cv.pdf" #fix this so it's not relative
     name = "CV"
     weight = 3
 
-[[menu.main]]
-    url = "/projects/"
-    name = "Projects"
-    weight = 4
-
-[[menu.main]]
-    url = "/other/"
-    name = "Other"
-    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
