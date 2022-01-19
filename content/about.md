@@ -17,4 +17,4 @@ Right now, I am looking for opportunities to improve my ML engineering and NLP s
 
 In my past lives, I was a PhD student in Cognitive Neuroscience at Aarhus University (as part of the Marie Skłodowska-Curie ITN [DCOMM](https://www.dcomm.eu)); a visiting PhD student at the Technical University of Denmark (DTU), at the National Research Centre (CNR) in Rome, and at the School of Psychology at University of East Anglia; a Master student in Cognitive Science at University of Trento; and a Research Assistant at the Max Planck Institute for Psycholinguistics in Nijmegen and at University College London.  </br>
 
-I spend a great deal of my free time reading, running, listening to music (from modern jazz to hip-hop), and watching art-house movies. I occasionally do some freelance culture journalism, play the bass in a band, and write bits of fiction that I immediately regret.
+I spend a great deal of my free time reading, running, listening to music (from modern jazz to hip-hop), and watching art-house movies. I occasionally do some freelance science and culture journalism, write fiction, and play the bass in an indie rock band.
