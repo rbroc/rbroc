@@ -13,7 +13,7 @@ At Aarhus University, I am involved in an applied NLP and computational social s
 
 Driven by my interest in the impact of big data, ML and technology on social good, last summer I worked as a Predictive Analytics Data Fellow at the United Nations' Centre for Humanitarian Data, where I conducted research on how complex systems modeling can be used to inform intervention in humanitarian contexts. </br>
 
-Right now, I am looking for opportunities to improve my ML skills while also contributing to increasing its accessibility for non-ML experts, its fairness and positive societal impact (e.g., clinical research, humanitarian data science). </br>
+Right now, I am looking for opportunities to improve my ML skills while also contributing to increasing its accessibility for non-ML experts, its fairness, and its positive societal impact (e.g., for clinical or humanitarian applications). </br>
 
 In my past lives, I was a PhD student in Cognitive Neuroscience at Aarhus University (as part of the Marie Skłodowska-Curie ITN [DCOMM](https://www.dcomm.eu)); a visiting PhD student at the Technical University of Denmark (DTU), at the National Research Centre (CNR) in Rome, and at the School of Psychology at University of East Anglia; a Master student in Cognitive Science at University of Trento; and a Research Assistant at the Max Planck Institute for Psycholinguistics in Nijmegen and at University College London.  </br>
 
