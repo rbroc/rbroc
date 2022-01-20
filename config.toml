@@ -13,7 +13,7 @@ publishDir = "rbroc.github.io"
     accent = "#A52A2A"
     showBorder = true
     backgroundColor = "white"
-    font = "Roboto Mono" #
+    font = "Montserrat"
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
@@ -54,6 +54,6 @@ publishDir = "rbroc.github.io"
     weight = 3
 
 [[menu.icon]]
-    url = "www.linkedin.com/in/roberta-rocca-8299a2123"
+    url = "https://www.linkedin.com/in/roberta-rocca-8299a2123/"
     name = "linkedin"
     weight = 4
