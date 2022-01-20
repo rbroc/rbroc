@@ -17,6 +17,7 @@ publishDir = "public"
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    profilePic = "profile.png"
 
 [[menu.main]]
     url = "/"
