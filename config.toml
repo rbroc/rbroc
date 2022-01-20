@@ -4,7 +4,7 @@ title = "Roberta Rocca"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
-publishDir = "rbroc.github.io"
+publishDir = "public"
 
 [params]
     author = "Roberta Rocca"
