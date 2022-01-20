@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberta Rocca</title>
+    <link>https://rbroc.github.io/</link>
+    <description>Recent content on Roberta Rocca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://rbroc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://rbroc.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rbroc.github.io/about/</guid>
+      <description>I am a postdoctoral researcher at Psychoinformatics Lab, University of Texas at Austin, with a cognitive neuroscience and computational lingusitics background. My work focuses on developing research methods and open-source software for neuroscience and psychology, and it is especially centered on making ML tools and practices more available to these research communities. I have a strong interest in deep learning and data science, and in their potential for positive impact on research and social good.</description>
+    </item>
+    
+  </channel>
+</rss>
