@@ -16,6 +16,7 @@ publishDir = "rbroc.github.io"
     font = "Montserrat"
     highlight = true
     highlightStyle = "default"
+    coverImage = "public/profile.jpg"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
@@ -33,6 +34,11 @@ publishDir = "rbroc.github.io"
     name = "CV"
     weight = 3
 
+[[menu.main]]
+    url = "/projects/"
+    name = "Projects"
+    weight = 4
+
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
@@ -40,20 +46,20 @@ publishDir = "rbroc.github.io"
 
 [[menu.icon]]
     url = "mailto:rbrrcc@gmail.com"
-    name = "envelope-o"
+    name = "fas fa-envelope"
     weight = 1
 
 [[menu.icon]]
     url = "https://github.com/rbroc"
-    name = "github"
+    name = "fab fa-github"
     weight = 2
 
 [[menu.icon]]
     url = "https://twitter.com/RockBerta/"
-    name = "twitter"
+    name = "fab fa-twitter"
     weight = 3
 
 [[menu.icon]]
     url = "https://www.linkedin.com/in/roberta-rocca-8299a2123/"
-    name = "linkedin"
+    name = "fab fa-linkedin"
     weight = 4
