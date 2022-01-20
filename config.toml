@@ -16,7 +16,6 @@ publishDir = "rbroc.github.io"
     font = "Montserrat"
     highlight = true
     highlightStyle = "default"
-    coverImage = "public/profile.jpg"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
