@@ -4,7 +4,7 @@ description: "I am currently part of an [interdisciplinary consortium](https://i
 Using the Twitter API (v2), I have created a large multilingual Twitter dataset (EN/DE/IT/DA/PL) containing tweets about the European Union, and I am experimenting with transformers-powered sentiment analysis and topic modeling to understand how and why support to the EU has evolved the last decade.  \n
 This project is giving me the opportunity to gain familiarity with existing tools for multilingual text analysis, and to develop awareness of the need for more and better tools for low-resource languages."
 #repo: "#" # delete this line if you want a blog-like page
-tags: ["applied NLP", "Twitter", "computational social science", "data science"]
+tags: ["applied NLP", "Twitter", "computational social science", "data science", "ML"]
 weight: 3
 draft: false
 ---
