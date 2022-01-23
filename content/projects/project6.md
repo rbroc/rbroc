@@ -1,11 +1,11 @@
 ---
-title: "The neural underpinnings of spatial demonstratives"
-description: "Spatial demonstratives are words like 'this' and 'that' used to direct manipulate people's attentional focus. They are extremely frequent, yet far from simple. Understanding what they refer to requires not only knowing language, but also the context in which they are pronounced.  \n 
-As part of my PhD, I ran a naturalistic fMRI study combining synthesized dialogical narratives, fast multiband acquisition, and finite impulse response modeling to understand how the brain makes sense of them.  \n
-I found that spatial words engaged dorsal regions of the brain implicated not only in language, but in various aspects of visuospatial cognition, supporting distributed views of language processing.  \n 
-This study has been published in *NeuroImage*, and it is available here https://www.sciencedirect.com/science/article/pii/S1053811919307190"
-#repo: ""
-tags: ["fMRI", "spatial cognition", "neuroimaging", "language", "research methods"]
+title: "Introducing benchmarks for the evaluation of psychological models"
+description: "Quantitative research in psychology and neighboring field emphasizes explanation and in-sample effect sizes over demonstrating models' ability to predict on unseen data (generalization).  \n
+In a methods paper that interleaves theoretical arguments with empirical demonstrations (code available in [this repo](https://github.com/rbroc/benchmarks_paper)), we show how psychology would benefit from adopting benchmarking as a consensus paradigm for model evaluation.  \n
+We discuss how psychology can learn from both the strengths and the known weaknesses (e.g., biases, overfitting) of benchmarking in ML, discuss first steps for introducing these new practices in the field, and outline their potential to increase the practical utility of the outputs of psychological research.  \n
+This article has been published in *Advances in Methods and Practices in Psychological Sciences*, and it available at: https://journals.sagepub.com/doi/full/10.1177/25152459211026864"
+repo: "benchmarks_paper"
+tags: ["research methods", "benchmarking", "evaluation", "ML"]
 weight: 6
 draft: false
 ---

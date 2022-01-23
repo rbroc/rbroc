@@ -1,12 +1,11 @@
 ---
-title: "Investigating social modulations of spatial representations through language"
-description: "Humans perceive space as functional to action. Several studies have shown that humans organize space into a peripersonal (i.e., within reach) and an extrapersonal (i.e., outside reach) region.  \n
-Interestingly, a lot of the actions we perform in our daily life are performed together with others. Do we adapt the way in which we parse space as near vs. far oto the position of other people when action goals are shared?  \n
-We tested this hypothesis over two interactive experiments using language as a proxy for spatial representations.  \
-We found that, in the context of joint action, linguistic coding of locations as proximal vs. distal is based on the position of the partner rather than oneself's.  \n
-These studies (part of my PhD) are published in *Nature Scientific Reports*. The article is available here: https://www.nature.com/articles/s41598-019-51134-8"
+title: "The neural underpinnings of spatial demonstratives"
+description: "Spatial demonstratives are words like 'this' and 'that' used to direct manipulate people's attentional focus. They are extremely frequent, yet far from simple. Understanding what they refer to requires not only knowing language, but also the context in which they are pronounced.  \n 
+As part of my PhD, I ran a naturalistic fMRI study combining synthesized dialogical narratives, fast multiband acquisition, and finite impulse response modeling to understand how the brain makes sense of them.  \n
+I found that spatial words engaged dorsal regions of the brain implicated not only in language, but in various aspects of visuospatial cognition, supporting distributed views of language processing.  \n 
+This study has been published in *NeuroImage*, and it is available here https://www.sciencedirect.com/science/article/pii/S1053811919307190"
 #repo: ""
-tags: ["social cognition", "language", "spatial cognition", "research methods"]
+tags: ["fMRI", "spatial cognition", "neuroimaging", "language", "research methods"]
 weight: 7
 draft: false
 ---
