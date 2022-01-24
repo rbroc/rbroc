@@ -5,8 +5,8 @@ We experiment with three DistilBERT-inspired architectures: a bi-encoder (where 
 The importance of this project is two-fold. First, this way of tuning models to produce context-aware representations may provide intrinsic advantages in NLP tasks (e.g., for MLM, knowledge of the author may make it easier to accurately reconstruct missing words), without substantial increase in model complexity. Secondly, text-based representations of text authors could be used to predict individual traits, following the intuition that linguistic behavior is systematically influenced by personality, experiences, etc.  \n  \n
 This project is still in progress, and it has so far been a great source of learning and of motivation to keep working with deep learning and NLP. I had to build a large-scale Reddit dataset from scratch, a 'big data' experience that gained me proficiency in SQL, and I have become increasingly proficient in Tensorflow for both model engineering, distributed training, and efficient data pipelines. Being a self-taught ML engineer, I have made all possible rookie mistakes in the process and have greatly benefitted from each of them.  \n  \n
 The project started as a collaboration with Tal Yarkoni, but I have been responsible for implementation throughout and for its evolution in the last months. \n
-Code is publicly available [in this repository](https://github.com/rbroc/personality_reddit). Planning on making everything nice and tidy once write-up is close, and to share the dataset for public use."
-repo: "personality_reddit"
+Code is publicly available [in this repository](https://github.com/rbroc/ctx_transformers). Planning on making everything nice and tidy once write-up is close, and to share the dataset for public use."
+repo: "ctx_transformers"
 tags: ["NLP", "transformers", "DistilBERT", "TensorFlow", "huggingface", "ML"]
 weight: 2
 draft: false
