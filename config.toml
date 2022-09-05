@@ -36,7 +36,7 @@ publishDir = "public"
 
 [[menu.main]]
     url = "/cv/cv.pdf" #fix this so it's not relative
-    name = "CV"
+    name = "Résumé"
     weight = 4
 
 
