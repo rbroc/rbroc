@@ -2,9 +2,13 @@
 title: About
 ---
 
-I am a postdoctoral researcher at Psychoinformatics Lab, University of Texas at Austin.
+I am a postdoctoral researcher at Psychoinformatics Lab, University of 
+Texas at Austin, and at the Interacting Minds Centre, Aarhus University.
 
-My work focuses on developing research methods and open-source software for neuroscience and psychology, and especially on making ML tools and practices more available to these research communities.
+My work focuses on NLP, data science and cognitive science. I have also 
+worked on developing open-source software, and on making ML 
+tools and practices more available to research communities in neuroscience 
+and psychology.
 
 I am part of the lab that develops [Neuroscout](https://neuroscout.org/), an open-source platform for end-to-end analysis of neuroimaging data, where I focus on workflow validation and on implementing deep learning pipelines for the feature extraction library [pliers](https://github.com/PsychoinformaticsLab/pliers). I am also working on a few other projects such as training [transformers that learn from structured context](https://github.com/rbroc/personality_reddit), and on mapping cross-national attitudes towards the European Union from a multilingual Twitter corpus (see [Projects](https://rbroc.github.io/projects)).
 
