@@ -2,8 +2,7 @@
 title: About
 ---
 
-I am a postdoctoral researcher at Psychoinformatics Lab, University of 
-Texas at Austin, and at the Interacting Minds Centre, Aarhus University.
+I am a postdoctoral researcher at the Department of Culture, Cognition and Computation, Aarhus University. Previously, I was a postdoc at Psychoinformatics Lab, UT Austin, with which I am still affiliated.
 
 My work focuses on NLP, data science and cognitive science. I have also 
 worked on developing open-source software, and on making ML 
