@@ -5,7 +5,7 @@ In a methods paper that interleaves theoretical arguments with empirical demonst
 We discuss how psychology can learn from both the strengths and the known weaknesses (e.g., biases, overfitting) of benchmarking in ML, discuss first steps for introducing these new practices in the field, and outline their potential to increase the practical utility of the outputs of psychological research.  \n
 This article has been published in *Advances in Methods and Practices in Psychological Sciences*, and it available at: https://journals.sagepub.com/doi/full/10.1177/25152459211026864"
 repo: "benchmarks_paper"
-tags: ["research methods", "benchmarking", "evaluation", "ML"]
+tags: ["research methods", "evaluation", "machine learning"]
 weight: 6
 draft: false
 ---

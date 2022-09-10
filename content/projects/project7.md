@@ -5,7 +5,7 @@ As part of my PhD, I ran a naturalistic fMRI study combining synthesized dialogi
 I found that spatial words engaged dorsal regions of the brain implicated not only in language, but in various aspects of visuospatial cognition, supporting distributed views of language processing.  \n 
 This study has been published in *NeuroImage*, and it is available here https://www.sciencedirect.com/science/article/pii/S1053811919307190"
 #repo: ""
-tags: ["fMRI", "spatial cognition", "neuroimaging", "language", "research methods"]
+tags: [ "neuroimaging", "language", "spatial cognition", "research methods"]
 weight: 8
 draft: false
 ---
