@@ -6,6 +6,6 @@ I am also contributing to validating the platform and its affordances for large-
 For this project, I am working in close connection with Alejandro de la Vega, Research Scientist at UT Austin and PI for the NIH-funded Neuroscout project."
 repo: "neuroscout-paper"
 tags: ["open-source", "fMRI", "neuroimaging", "research methods", "ML"]
-weight: 1
+weight: 2
 draft: false
 ---

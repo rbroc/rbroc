@@ -6,6 +6,6 @@ I found that spatial words engaged dorsal regions of the brain implicated not on
 This study has been published in *NeuroImage*, and it is available here https://www.sciencedirect.com/science/article/pii/S1053811919307190"
 #repo: ""
 tags: ["fMRI", "spatial cognition", "neuroimaging", "language", "research methods"]
-weight: 7
+weight: 8
 draft: false
 ---

@@ -5,6 +5,6 @@ We find that, when performing the association game with a partner, agents tend t
 Code (which will soon be tidied up!) is publicly available [here](https://github.com/rbroc/diversity_abm)."
 repo: "ABM_diversity"
 tags: ["agent-based modeling", "social cognition", "problem solving", "creativity"]
-weight: 4
+weight: 5
 draft: false
 ---

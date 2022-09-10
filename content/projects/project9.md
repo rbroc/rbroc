@@ -5,6 +5,6 @@ Using PCA and multilevel linear modeling, we found that demonstrative choice is 
 Studies from my PhD using this paradigm have been published in [PlosOne](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210333), [Frontiers in Psychology](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00629/full), and [Language and Cognition](https://doi.org/10.1017/langcog.2021.11), and two more are currently in progress."
 #repo: ""
 tags: ["semantics", "spatial cognition", "language", "research methods"]
-weight: 9
+weight: 10
 draft: false
 ---

@@ -7,6 +7,6 @@ We found that, in the context of joint action, linguistic coding of locations as
 These studies (part of my PhD) are published in *Nature Scientific Reports*. The article is available here: https://www.nature.com/articles/s41598-019-51134-8"
 #repo: ""
 tags: ["social cognition", "language", "spatial cognition", "research methods"]
-weight: 8
+weight: 9
 draft: false
 ---
