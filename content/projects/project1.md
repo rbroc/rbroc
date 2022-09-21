@@ -1,9 +1,8 @@
 ---
 title: "Neuroscout: a platform for large-scale naturalistic fMRI research"
-description: "At Psychoinformatics Lab, I am contributing to the development of [Neuroscout](https://neuroscout.org), an end-to-end platform for the analysis of naturalistic fMRI data. You can read more about Neuroscout in eLife paper: https://elifesciences.org/articles/79277. \n
+description: "At Psychoinformatics Lab, I am contributing to the development of [Neuroscout](https://neuroscout.org), an end-to-end platform for the analysis of naturalistic fMRI data. You can read more about Neuroscout in our eLife paper: https://elifesciences.org/articles/79277. \n
 I am focusing on expanding Neuroscout's annotation set by implementing feature extraction pipelines that use pretrained deep learning models (e.g., from HuggingFace's transformers and TensorflowHub) in [pliers](https://github.com/PsychoinformaticsLab/pliers).  \n
-I am also contributing to validating the platform and its affordances for large-scale neuroimaging research through a series of meta-analytic replications of known neuroimaging findings (preprint forthcoming, code [here](https://github.com/neuroscout/neuroscout-paper)), and QA testing its workflows and other components.  \n
-For this project, I am working in close connection with Alejandro de la Vega, Research Scientist at UT Austin and PI for the NIH-funded Neuroscout project."
+I contributed to validating the platform and showing its potential to increase the generalizability of neuroimaging findings through a series of large-scale meta-analyses presented in the paper, and available as a Jupyter book [here](https://neuroscout.github.io/neuroscout-paper/intro.html)."
 repo: "neuroscout-paper"
 tags: ["neuroimaging", "research methods", "machine learning", "open-source"]
 weight: 2
