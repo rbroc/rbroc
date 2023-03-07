@@ -8,7 +8,7 @@ publishDir = "public"
 
 [params]
     author = "Roberta Rocca"
-    description = "Postdoctoral researcher @ Aarhus University"
+    description = "Tenure-track Assistant Professor @ Aarhus University"
     githubUsername = "rbroc"
     accent = "#A52A2A"
     showBorder = true
@@ -36,7 +36,7 @@ publishDir = "public"
 
 [[menu.main]]
     url = "/cv/cv.pdf" #fix this so it's not relative
-    name = "Résumé"
+    name = "CV"
     weight = 4
 
 

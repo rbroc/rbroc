@@ -8,6 +8,6 @@ My work focuses on NLP and data science methods, applied to the study of [clinic
 
 I have been part of a number of open-source projects, including [Neuroscout](https://neuroscout.org/), a platform for end-to-end analysis of neuroimaging data (see [research paper](https://elifesciences.org/articles/79277)). As part of the Neuroscout project, I focused especially on validating and testing core analytical workflows, on implementing deep learning pipelines for the feature extraction library [pliers](https://github.com/PsychoinformaticsLab/pliers), and on supporting expansion of feature sets and functionality. 
 
-You can read more about my research projects in my résumé, and in the [Projects](https://rbroc.github.io/projects) section of this website.
+You can read more about my work in my [CV](https://rbroc.github.io/cv/cv.pdf), and in the [Projects](https://rbroc.github.io/projects) section of this website.
 
 
