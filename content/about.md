@@ -2,15 +2,12 @@
 title: About
 ---
 
-I am a postdoctoral researcher at the Department of Culture, Cognition and Computation, Aarhus University. Previously, I was a postdoc at Psychoinformatics Lab, UT Austin, with which I am still affiliated.
+I am a tenure-track Assistant Professor at the Department of Culture, Cognition and Computation, Aarhus University. Previously, I was a postdoc at Psychoinformatics Lab, UT Austin, with which I am still affiliated.
 
-My work focuses on NLP, data science and cognitive science. I have also 
-worked on developing open-source software, and on making ML 
-tools and practices more available to research communities in neuroscience 
-and psychology.
+My work focuses on NLP and data science methods, applied to the study of [clinical conditions](https://arxiv.org/abs/2301.06916), [cognitive processes and individual differences](https://aclanthology.org/2022.findings-emnlp.123/), and [social and political phenomena](https://escholarship.org/uc/item/58v5d82w). I spend most of my time developing research methods, trying to make ML tools and practices more available to research communities in cognitive and social sciences, and [writing scientific papers about it](https://journals.sagepub.com/doi/pdf/10.1177/25152459211026864). I am also interested in humanitarian NLP, and have previously worked as [Data Fellow](https://centre.humdata.org/data-fellows/) in Predictive Analytics at the United Nations' Centre for Humanitarian Data. I am an NLP and deep learning enthusiast, motivated to help making AI fairer, more democratic, and more socially impactful.
 
-I am part of the lab that develops [Neuroscout](https://neuroscout.org/), an open-source platform for end-to-end analysis of neuroimaging data, where I focus on workflow validation and on implementing deep learning pipelines for the feature extraction library [pliers](https://github.com/PsychoinformaticsLab/pliers). I am also working on a few other projects such as training [transformers that learn from structured context](https://github.com/rbroc/personality_reddit), and on mapping cross-national attitudes towards the European Union from a multilingual Twitter corpus (see [Projects](https://rbroc.github.io/projects)).
+I have been part of a number of open-source projects, including [Neuroscout](https://neuroscout.org/), a platform for end-to-end analysis of neuroimaging data (see [research paper](https://elifesciences.org/articles/79277)). As part of the Neuroscout project, I focused especially on validating and testing core analytical workflows, on implementing deep learning pipelines for the feature extraction library [pliers](https://github.com/PsychoinformaticsLab/pliers), and on supporting expansion of feature sets and functionality. 
 
-In Summer 2021, I was a [Data Fellow](https://centre.humdata.org/data-fellows/) in Predictive Analytics at the United Nations' Centre for Humanitarian Data, where I did research on how complex systems predictive modeling techniques can inform humanitarian intervention.
+You can read more about my research projects in my résumé, and in the [Projects](https://rbroc.github.io/projects) section of this website.
 
-I am a deep learning enthusiast, and I am seeking opportunities to improve my engineering skills while contributing to fairer, more democratic, and more socially impactful AI.
+
