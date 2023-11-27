@@ -16,5 +16,6 @@ I ❤️ open-source. One of the most exciting projects I have ever taken part i
 
 I am also interested in the opportunities for the use of [AI in the humanitarian sector](https://www.frontiersin.org/articles/10.3389/fdata.2023.1082787/full), and I am always eager to engage in collaborations with researchers and organisations operating in this domain.
 
-You can read more about my work in my [CV](https://rbroc.github.io/cv/cv.pdf), and in the [Projects](https://rbroc.github.io/projects) section of this website. 🚀
+You can read more about my work in my [CV](https://rbroc.github.io/cv/cv.pdf) 🚀
+
 
