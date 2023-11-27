@@ -28,16 +28,11 @@ publishDir = "public"
     url = "/about/"
     name = "About"
     weight = 2
-
-[[menu.main]]
-    url = "/projects/"
-    name = "Projects"
-    weight = 3
-
+    
 [[menu.main]]
     url = "/cv/cv.pdf" #fix this so it's not relative
     name = "CV"
-    weight = 4
+    weight = 3
 
 
 # Social icons to be shown on the right-hand side of the navigation bar.
