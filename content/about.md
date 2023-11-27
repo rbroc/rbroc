@@ -3,7 +3,7 @@ title: About
 ---
 Hi there! 🖖
 
-I am a tenure-track Assistant Professor at the Department of Culture, Cognition and Computation @ Aarhus University (since December 2022). Previously, I was a postdoc @ UT Austin (2019-2022), where I worked with Dr Tal Yarkoni, and, Data Fellow at UN OCHA [Centre for Humanitarian Data](https://centre.humdata.org/).
+I am a tenure-track Assistant Professor at the Department of Culture, Cognition and Computation @ Aarhus University (since December 2022). Previously, I was a postdoc @ UT Austin (2019-2022), where I worked with Dr Tal Yarkoni, and Data Fellow at UN OCHA [Centre for Humanitarian Data](https://centre.humdata.org/).
 
 I do research at the intersection of NLP, data science, and cognitive science 🤖 🧠 🗣️ \
 My current work focuses on using machine learning and NLP to model human traits and behavior, focusing especially on:
