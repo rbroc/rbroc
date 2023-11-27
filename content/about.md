@@ -13,4 +13,4 @@ I ❤️ working on collaborative open-source projects. One of the most exciting
 
 You can read more about my work in my [CV](https://rbroc.github.io/cv/cv.pdf), and in the [Projects](https://rbroc.github.io/projects) section of this website. 🚀
 
-Don't hesitate to get in touch if you have ideas for new exciting collaborations!
+Get in touch if you have ideas for new collaborations!
