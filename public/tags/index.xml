@@ -2,184 +2,184 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Roberta Rocca</title>
-    <link>https://rbroc.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Roberta Rocca</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://rbroc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agent-Based Modeling</title>
-      <link>https://rbroc.github.io/tags/agent-based-modeling/</link>
+      <link>http://localhost:1313/tags/agent-based-modeling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/agent-based-modeling/</guid>
+      <guid>http://localhost:1313/tags/agent-based-modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>Applied NLP</title>
-      <link>https://rbroc.github.io/tags/applied-nlp/</link>
+      <link>http://localhost:1313/tags/applied-nlp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/applied-nlp/</guid>
+      <guid>http://localhost:1313/tags/applied-nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>Clinical Diagnostics</title>
-      <link>https://rbroc.github.io/tags/clinical-diagnostics/</link>
+      <link>http://localhost:1313/tags/clinical-diagnostics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/clinical-diagnostics/</guid>
+      <guid>http://localhost:1313/tags/clinical-diagnostics/</guid>
       <description></description>
     </item>
     <item>
       <title>Complex Systems</title>
-      <link>https://rbroc.github.io/tags/complex-systems/</link>
+      <link>http://localhost:1313/tags/complex-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/complex-systems/</guid>
+      <guid>http://localhost:1313/tags/complex-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Computational Social Science</title>
-      <link>https://rbroc.github.io/tags/computational-social-science/</link>
+      <link>http://localhost:1313/tags/computational-social-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/computational-social-science/</guid>
+      <guid>http://localhost:1313/tags/computational-social-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Creativity</title>
-      <link>https://rbroc.github.io/tags/creativity/</link>
+      <link>http://localhost:1313/tags/creativity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/creativity/</guid>
+      <guid>http://localhost:1313/tags/creativity/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Science</title>
-      <link>https://rbroc.github.io/tags/data-science/</link>
+      <link>http://localhost:1313/tags/data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/data-science/</guid>
+      <guid>http://localhost:1313/tags/data-science/</guid>
       <description></description>
     </item>
     <item>
       <title>DistilBERT</title>
-      <link>https://rbroc.github.io/tags/distilbert/</link>
+      <link>http://localhost:1313/tags/distilbert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/distilbert/</guid>
+      <guid>http://localhost:1313/tags/distilbert/</guid>
       <description></description>
     </item>
     <item>
       <title>Evaluation</title>
-      <link>https://rbroc.github.io/tags/evaluation/</link>
+      <link>http://localhost:1313/tags/evaluation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/evaluation/</guid>
+      <guid>http://localhost:1313/tags/evaluation/</guid>
       <description></description>
     </item>
     <item>
       <title>Huggingface</title>
-      <link>https://rbroc.github.io/tags/huggingface/</link>
+      <link>http://localhost:1313/tags/huggingface/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/huggingface/</guid>
+      <guid>http://localhost:1313/tags/huggingface/</guid>
       <description></description>
     </item>
     <item>
       <title>Humanitarian Data</title>
-      <link>https://rbroc.github.io/tags/humanitarian-data/</link>
+      <link>http://localhost:1313/tags/humanitarian-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/humanitarian-data/</guid>
+      <guid>http://localhost:1313/tags/humanitarian-data/</guid>
       <description></description>
     </item>
     <item>
       <title>Language</title>
-      <link>https://rbroc.github.io/tags/language/</link>
+      <link>http://localhost:1313/tags/language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/language/</guid>
+      <guid>http://localhost:1313/tags/language/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>https://rbroc.github.io/tags/machine-learning/</link>
+      <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>ML</title>
-      <link>https://rbroc.github.io/tags/ml/</link>
+      <link>http://localhost:1313/tags/ml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/ml/</guid>
+      <guid>http://localhost:1313/tags/ml/</guid>
       <description></description>
     </item>
     <item>
       <title>Neuroimaging</title>
-      <link>https://rbroc.github.io/tags/neuroimaging/</link>
+      <link>http://localhost:1313/tags/neuroimaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/neuroimaging/</guid>
+      <guid>http://localhost:1313/tags/neuroimaging/</guid>
       <description></description>
     </item>
     <item>
       <title>NLP</title>
-      <link>https://rbroc.github.io/tags/nlp/</link>
+      <link>http://localhost:1313/tags/nlp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/nlp/</guid>
+      <guid>http://localhost:1313/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-Source</title>
-      <link>https://rbroc.github.io/tags/open-source/</link>
+      <link>http://localhost:1313/tags/open-source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/open-source/</guid>
+      <guid>http://localhost:1313/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Predictive Modeling</title>
-      <link>https://rbroc.github.io/tags/predictive-modeling/</link>
+      <link>http://localhost:1313/tags/predictive-modeling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/predictive-modeling/</guid>
+      <guid>http://localhost:1313/tags/predictive-modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>Psychiatry</title>
-      <link>https://rbroc.github.io/tags/psychiatry/</link>
+      <link>http://localhost:1313/tags/psychiatry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/psychiatry/</guid>
+      <guid>http://localhost:1313/tags/psychiatry/</guid>
       <description></description>
     </item>
     <item>
       <title>Research Methods</title>
-      <link>https://rbroc.github.io/tags/research-methods/</link>
+      <link>http://localhost:1313/tags/research-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/research-methods/</guid>
+      <guid>http://localhost:1313/tags/research-methods/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Cognition</title>
-      <link>https://rbroc.github.io/tags/social-cognition/</link>
+      <link>http://localhost:1313/tags/social-cognition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/social-cognition/</guid>
+      <guid>http://localhost:1313/tags/social-cognition/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Good</title>
-      <link>https://rbroc.github.io/tags/social-good/</link>
+      <link>http://localhost:1313/tags/social-good/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/social-good/</guid>
+      <guid>http://localhost:1313/tags/social-good/</guid>
       <description></description>
     </item>
     <item>
       <title>Spatial Cognition</title>
-      <link>https://rbroc.github.io/tags/spatial-cognition/</link>
+      <link>http://localhost:1313/tags/spatial-cognition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/spatial-cognition/</guid>
+      <guid>http://localhost:1313/tags/spatial-cognition/</guid>
       <description></description>
     </item>
     <item>
       <title>TensorFlow</title>
-      <link>https://rbroc.github.io/tags/tensorflow/</link>
+      <link>http://localhost:1313/tags/tensorflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/tensorflow/</guid>
+      <guid>http://localhost:1313/tags/tensorflow/</guid>
       <description></description>
     </item>
     <item>
       <title>Transformers</title>
-      <link>https://rbroc.github.io/tags/transformers/</link>
+      <link>http://localhost:1313/tags/transformers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rbroc.github.io/tags/transformers/</guid>
+      <guid>http://localhost:1313/tags/transformers/</guid>
       <description></description>
     </item>
   </channel>

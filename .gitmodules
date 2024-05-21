@@ -1,7 +1,6 @@
-[submodule "themes/minimal"]
-	path = themes/minimal
-	url = https://github.com/calintat/minimal.git
 [submodule "public"]
 	path = public
-	url = https://github.com/rbroc/rbroc.github.io.git
-	branch = master
+	url = https://github.com/rbroc/rbroc.github.io
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal

@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rbroc.github.io/projects/project/</loc>
+    <loc>http://localhost:1313/projects/project/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/projects/project1/</loc>
+    <loc>http://localhost:1313/projects/project1/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/projects/project2/</loc>
+    <loc>http://localhost:1313/projects/project2/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/projects/project3/</loc>
+    <loc>http://localhost:1313/projects/project3/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/projects/project4/</loc>
+    <loc>http://localhost:1313/projects/project4/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/projects/project6/</loc>
+    <loc>http://localhost:1313/projects/project6/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/projects/project5/</loc>
+    <loc>http://localhost:1313/projects/project5/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/projects/project7/</loc>
+    <loc>http://localhost:1313/projects/project7/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/projects/project8/</loc>
+    <loc>http://localhost:1313/projects/project8/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/projects/project9/</loc>
+    <loc>http://localhost:1313/projects/project9/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/agent-based-modeling/</loc>
+    <loc>http://localhost:1313/tags/agent-based-modeling/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/applied-nlp/</loc>
+    <loc>http://localhost:1313/tags/applied-nlp/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/clinical-diagnostics/</loc>
+    <loc>http://localhost:1313/tags/clinical-diagnostics/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/complex-systems/</loc>
+    <loc>http://localhost:1313/tags/complex-systems/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/computational-social-science/</loc>
+    <loc>http://localhost:1313/tags/computational-social-science/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/creativity/</loc>
+    <loc>http://localhost:1313/tags/creativity/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/data-science/</loc>
+    <loc>http://localhost:1313/tags/data-science/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/distilbert/</loc>
+    <loc>http://localhost:1313/tags/distilbert/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/evaluation/</loc>
+    <loc>http://localhost:1313/tags/evaluation/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/huggingface/</loc>
+    <loc>http://localhost:1313/tags/huggingface/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/humanitarian-data/</loc>
+    <loc>http://localhost:1313/tags/humanitarian-data/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/language/</loc>
+    <loc>http://localhost:1313/tags/language/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/ml/</loc>
+    <loc>http://localhost:1313/tags/ml/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/neuroimaging/</loc>
+    <loc>http://localhost:1313/tags/neuroimaging/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/nlp/</loc>
+    <loc>http://localhost:1313/tags/nlp/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/open-source/</loc>
+    <loc>http://localhost:1313/tags/open-source/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/predictive-modeling/</loc>
+    <loc>http://localhost:1313/tags/predictive-modeling/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/psychiatry/</loc>
+    <loc>http://localhost:1313/tags/psychiatry/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/research-methods/</loc>
+    <loc>http://localhost:1313/tags/research-methods/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/social-cognition/</loc>
+    <loc>http://localhost:1313/tags/social-cognition/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/social-good/</loc>
+    <loc>http://localhost:1313/tags/social-good/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/spatial-cognition/</loc>
+    <loc>http://localhost:1313/tags/spatial-cognition/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/tensorflow/</loc>
+    <loc>http://localhost:1313/tags/tensorflow/</loc>
   </url><url>
-    <loc>https://rbroc.github.io/tags/transformers/</loc>
+    <loc>http://localhost:1313/tags/transformers/</loc>
   </url>
 </urlset>
