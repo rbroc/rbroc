@@ -3,19 +3,12 @@ title: About
 ---
 Hi there! 🖖
 
-I am a tenure-track Assistant Professor at the Department of Culture, Cognition and Computation @ Aarhus University (since December 2022). Previously, I was a postdoc @ UT Austin (2019-2022), where I worked with Dr Tal Yarkoni, and Data Fellow at UN OCHA [Centre for Humanitarian Data](https://centre.humdata.org/).
+I am a Research Scientist in Machine Learning and Cognition in the Paradigms of Intelligence group @ Google, an awesome team working on frontier questions on artificial, human, and hybrid intelligence. Previously, I was an Assistant Professor in Cognition and Computation @ Aarhus University, a postdoc at the Psychoinformatics Lab @ UT Austin, a Data Fellow at the United Nations' [Centre for Humanitarian Data](https://centre.humdata.org/). I hold a MSc in Cognitive Science from the Centre for Mind/Brain Sciences at the University of Trento, and a PhD in Cognitive Science from Aarhus University.
 
-I do research at the intersection of NLP, data science, and cognitive science 🤖 🧠 🗣️ \
-My current work focuses on using machine learning and NLP to model human traits and behavior, focusing especially on:
-- Inference of [psychiatric conditions](https://www.nature.com/articles/s44220-023-00152-7) and [encoding and inference of cognitive profiles](https://aclanthology.org/2022.findings-emnlp.123/)
-- Using [computational paradigms](https://osf.io/preprints/psyarxiv/n3t6j), [agent-based frameworks](https://github.com/rbroc/simcat) and [NLG models](https://github.com/rbroc/chatbot-conversations) to simulate social phenomena
-- Explainable methods to [discriminate between human- and AI-generated text](https://github.com/rbroc/echo)
-- Introducing [ML-inspired evaluation practices in cognitive and social sciences](https://journals.sagepub.com/doi/pdf/10.1177/25152459211026864) 
+I do research on a number of questions at the intersection of AI and human cognition 🤖 🧠 🗣️. For example, I am interested in understanding how AI systems implement high-level cognitive processes such as metacognition, in studying emerging forms of AI-enabled collective intelligence, and in understanding the cognitive impact of human-AI interaction. With this, I contribute to making AI systems more beneficial for more and more of us.
 
-I ❤️ open-source. I have been part of the development of [Neuroscout](https://neuroscout.org/), a groundbreaking platform for end-to-end analysis of neuroimaging data (check out our [research paper](https://elifesciences.org/articles/79277)). As part of the Neuroscout team, I was in charge of implementing deep learning pipelines for the feature extraction library [pliers](https://github.com/PsychoinformaticsLab/pliers), of validating and testing core analytical workflows, and of supporting feature expansion. I have recently contributed to [Turftopic](https://github.com/x-tabdeveloping/turftopic), a package providing streamlined implementations of contextualized topic modeling techniques, and to the [Massive Multilingual Text Embedding Benchmark (MMTEB)](https://github.com/embeddings-benchmark/mteb/blob/main/docs/mmteb/readme.md)
+While I don't actively do much of that these days, I ❤️ contributing to open-source software. I contributed to the development of [Neuroscout](https://neuroscout.org/), a platform for end-to-end analysis of neuroimaging data; I implemented deep learning pipelines for the feature extraction library [pliers](https://github.com/PsychoinformaticsLab/pliers); I co-developed [Turftopic](https://github.com/x-tabdeveloping/turftopic), a package providing streamlined implementations of multiple contextualized topic modeling techniques; and I contributed to the [Massive Multilingual Text Embedding Benchmark (MMTEB)](https://github.com/embeddings-benchmark/mteb/blob/main/docs/mmteb/readme.md).
 
-I am also interested in the opportunities opened up by [AI in the humanitarian sector](https://www.frontiersin.org/articles/10.3389/fdata.2023.1082787/full), and I am always eager to engage in collaborations with researchers and organisations operating in this domain.
+I am also interested in the opportunities opened up by [AI in the humanitarian sector](https://www.frontiersin.org/articles/10.3389/fdata.2023.1082787/full), and I am always eager to collaborate with researchers and organizations in this space.
 
-You can read more about my work in my [CV](https://rbroc.github.io/cv/cv.pdf) 🚀
-
-
+You can read more about my work in my [CV](https://rbroc.github.io/cv/cv.pdf) and check out my publications on [Google Scholar](https://scholar.google.com/citations?user=EjB67tAAAAAJ&hl=en&oi=ao). 🚀

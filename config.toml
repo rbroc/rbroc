@@ -8,7 +8,7 @@ publishDir = "public"
 
 [params]
     author = "Roberta Rocca"
-    description = "Tenure-track Assistant Professor @ Aarhus University"
+    description = "Research Scientist @ Google, Paradigms of Intelligence"
     githubUsername = "rbroc"
     accent = "#A52A2A"
     showBorder = true
@@ -50,8 +50,8 @@ publishDir = "public"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/RockBerta/"
-    name = "fab fa-twitter"
+    url = "https://scholar.google.com/citations?user=EjB67tAAAAAJ&hl=en&oi=ao"
+    name = "fab fa-scholar"
     weight = 3
 
 [[menu.icon]]
