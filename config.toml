@@ -51,7 +51,7 @@ publishDir = "public"
 
 [[menu.icon]]
     url = "https://scholar.google.com/citations?user=EjB67tAAAAAJ&hl=en&oi=ao"
-    name = "fab fa-scholar"
+    name = "ai ai-google-scholar"
     weight = 3
 
 [[menu.icon]]

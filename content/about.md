@@ -3,7 +3,9 @@ title: About
 ---
 Hi there! 🖖
 
-I am a Research Scientist in Machine Learning and Cognition in the Paradigms of Intelligence group @ Google, an awesome team working on frontier questions on artificial, human, and hybrid intelligence. Previously, I was an Assistant Professor in Cognition and Computation @ Aarhus University, a postdoc at the Psychoinformatics Lab @ UT Austin, a Data Fellow at the United Nations' [Centre for Humanitarian Data](https://centre.humdata.org/). I hold a MSc in Cognitive Science from the Centre for Mind/Brain Sciences at the University of Trento, and a PhD in Cognitive Science from Aarhus University.
+I am a Research Scientist in Machine Learning and Cognition in the Paradigms of Intelligence team @ Google, where we work on frontier questions concerning the future of artificial, human, and hybrid intelligence. 
+
+Previously, I was an Assistant Professor in Cognition and Computation @ Aarhus University, a postdoc at the Psychoinformatics Lab @ UT Austin, a Data Fellow at the United Nations' [Centre for Humanitarian Data](https://centre.humdata.org/). I hold a MSc in Cognitive Science from the Centre for Mind/Brain Sciences at the University of Trento, and a PhD in Cognitive Science from Aarhus University.
 
 I do research on a number of questions at the intersection of AI and human cognition 🤖 🧠 🗣️. For example, I am interested in understanding how AI systems implement high-level cognitive processes such as metacognition, in studying emerging forms of AI-enabled collective intelligence, and in understanding the cognitive impact of human-AI interaction. With this, I contribute to making AI systems more beneficial for more and more of us.
 

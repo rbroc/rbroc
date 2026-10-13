@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roberta Rocca</title>
-    <link>http://localhost:1313/</link>
+    <link>https://rbroc.github.io/</link>
     <description>Recent content on Roberta Rocca</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rbroc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A multi-modal, multi-diagnostic approach to language-based inference of mental disorders</title>
-      <link>http://localhost:1313/projects/project/</link>
+      <link>https://rbroc.github.io/projects/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project/</guid>
+      <guid>https://rbroc.github.io/projects/project/</guid>
       <description></description>
     </item>
     <item>
       <title>Neuroscout: a platform for large-scale naturalistic fMRI research</title>
-      <link>http://localhost:1313/projects/project1/</link>
+      <link>https://rbroc.github.io/projects/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project1/</guid>
+      <guid>https://rbroc.github.io/projects/project1/</guid>
       <description></description>
     </item>
     <item>
       <title>Text transformer for context-aware encoding</title>
-      <link>http://localhost:1313/projects/project2/</link>
+      <link>https://rbroc.github.io/projects/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project2/</guid>
+      <guid>https://rbroc.github.io/projects/project2/</guid>
       <description></description>
     </item>
     <item>
       <title>Understanding cognitive dimensions of political identity using NLP</title>
-      <link>http://localhost:1313/projects/project3/</link>
+      <link>https://rbroc.github.io/projects/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project3/</guid>
+      <guid>https://rbroc.github.io/projects/project3/</guid>
       <description></description>
     </item>
     <item>
       <title>Cognitive diversity promotes collective creativity: an agent-based simulation</title>
-      <link>http://localhost:1313/projects/project4/</link>
+      <link>https://rbroc.github.io/projects/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project4/</guid>
+      <guid>https://rbroc.github.io/projects/project4/</guid>
       <description></description>
     </item>
     <item>
       <title>Introducing benchmarks for the evaluation of psychological models</title>
-      <link>http://localhost:1313/projects/project6/</link>
+      <link>https://rbroc.github.io/projects/project6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project6/</guid>
+      <guid>https://rbroc.github.io/projects/project6/</guid>
       <description></description>
     </item>
     <item>
       <title>Complex systems modeling for humanitarian action: methods and opportunities</title>
-      <link>http://localhost:1313/projects/project5/</link>
+      <link>https://rbroc.github.io/projects/project5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project5/</guid>
+      <guid>https://rbroc.github.io/projects/project5/</guid>
       <description></description>
     </item>
     <item>
       <title>The neural underpinnings of spatial demonstratives</title>
-      <link>http://localhost:1313/projects/project7/</link>
+      <link>https://rbroc.github.io/projects/project7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project7/</guid>
+      <guid>https://rbroc.github.io/projects/project7/</guid>
       <description></description>
     </item>
     <item>
       <title>Investigating social modulations of spatial representations through language</title>
-      <link>http://localhost:1313/projects/project8/</link>
+      <link>https://rbroc.github.io/projects/project8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project8/</guid>
+      <guid>https://rbroc.github.io/projects/project8/</guid>
       <description></description>
     </item>
     <item>
       <title>The semantics of spatial demonstratives</title>
-      <link>http://localhost:1313/projects/project9/</link>
+      <link>https://rbroc.github.io/projects/project9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project9/</guid>
+      <guid>https://rbroc.github.io/projects/project9/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://rbroc.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Hi there! 🖖&#xA;I am a tenure-track Assistant Professor at the Department of Culture, Cognition and Computation @ Aarhus University (since December 2022). Previously, I was a postdoc @ UT Austin (2019-2022), where I worked with Dr Tal Yarkoni, and Data Fellow at UN OCHA Centre for Humanitarian Data.&#xA;I do research at the intersection of NLP, data science, and cognitive science 🤖 🧠 🗣️ My current work focuses on using machine learning and NLP to model human traits and behavior, focusing especially on:</description>
+      <guid>https://rbroc.github.io/about/</guid>
+      <description>Hi there! 🖖&#xA;I am a Research Scientist in Machine Learning and Cognition in the Paradigms of Intelligence group @ Google, an awesome team working on frontier questions on artificial, human, and hybrid intelligence. Previously, I was an Assistant Professor in Cognition and Computation @ Aarhus University, a postdoc at the Psychoinformatics Lab @ UT Austin, a Data Fellow at the United Nations&amp;rsquo; Centre for Humanitarian Data. I hold a MSc in Cognitive Science from the Centre for Mind/Brain Sciences at the University of Trento, and a PhD in Cognitive Science from Aarhus University.</description>
     </item>
   </channel>
 </rss>
