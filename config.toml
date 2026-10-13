@@ -51,7 +51,7 @@ publishDir = "public"
 
 [[menu.icon]]
     url = "https://scholar.google.com/citations?user=EjB67tAAAAAJ&hl=en&oi=ao"
-    name = "fas fa-graduation-cap"
+    name = "fas fa-book"
     weight = 3
 
 [[menu.icon]]
