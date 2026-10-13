@@ -6,6 +6,11 @@ disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 publishDir = "public"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
     author = "Roberta Rocca"
     description = "Research Scientist @ Google, Paradigms of Intelligence"
@@ -30,7 +35,7 @@ publishDir = "public"
     weight = 2
     
 [[menu.main]]
-    url = "/cv/cv.pdf" #fix this so it's not relative
+    url = "https://rbroc.github.io/cv/cv.pdf"
     name = "CV"
     weight = 3
 
